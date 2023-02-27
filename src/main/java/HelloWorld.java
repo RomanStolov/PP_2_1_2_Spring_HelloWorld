@@ -1,7 +1,9 @@
 public class HelloWorld {
- 
     private String message;
- 
+
+    public HelloWorld() {
+    }
+
     public String getMessage() {
         return message;
     }
